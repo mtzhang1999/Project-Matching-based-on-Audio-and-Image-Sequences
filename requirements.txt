@@ -1,0 +1,10 @@
+python3.8
+pytorch==1.4
+torchvision
+librosa
+imageio
+scipy
+pickle
+matplotlib
+PIL
+
